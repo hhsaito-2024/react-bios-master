@@ -1,4 +1,4 @@
-# react-bios-master
+# react-bios
 Updating bios using React
 
 This is a React.js version of the JavaScript modal. Currently, the elements have been moved into components and the search has been moved into React.
